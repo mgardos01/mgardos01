@@ -5,7 +5,6 @@
 
 ## 🧠 I'm interested in
 
-- Artificial Intelligence
 - Software Design & Architecture
 - APIs!
   
